@@ -1,2 +1,2 @@
-# plateforme 
+# LotteryWebApp
 TP1
